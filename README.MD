@@ -1,0 +1,3 @@
+<h1 align="center">CURRENCY CONVERSOR</h1>
+
+The currency converter is a project related to the Alura course on object-oriented programming in JAVA. This project involves consuming an API, https://www.exchangerate-api.com/, using its standard mode. Based on the base currency provided by the user, an endpoint is consumed that returns a JSON. This JSON contains the conversion rates in key-value format for all currencies included in the API. The user selects the target currency and also enters the amount to perform the calculation and return the conversion result.
