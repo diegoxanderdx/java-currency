@@ -31,6 +31,11 @@ public class Main {
         double conversionRate = ExchangeRateFetcher.fetchConversionRate(baseCurrency, targetCurrency);
         if (conversionRate != -1) {
             double convertedAmount = ConversionService.convertAmount(amount, conversionRate);
+            System.out.println("""  
+                                  ----------------------------------------------------
+                                  ------------------CONVERSION RESULT-----------------
+                                  ----------------------------------------------------
+                                  """);
             System.out.println(amount + " " + baseCurrency + " is equivalent to " + convertedAmount + " " + targetCurrency);
         } else {
             System.out.println("Conversion rate for " + targetCurrency + " not found.");
