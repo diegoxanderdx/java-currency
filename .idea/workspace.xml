@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff1fb56f-9ecf-4341-abca-a492aa4378fc" name="Changes" comment="edit README.MD">
+    <list default="true" id="ff1fb56f-9ecf-4341-abca-a492aa4378fc" name="Changes" comment="update imgae in readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
@@ -127,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717359471883</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update imgae in readme">
+      <option name="closed" value="true" />
+      <created>1717359870210</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717359870210</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +156,7 @@
     <MESSAGE value="improve some views" />
     <MESSAGE value="add README.MD" />
     <MESSAGE value="edit README.MD" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit README.MD" />
+    <MESSAGE value="update imgae in readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update imgae in readme" />
   </component>
 </project>

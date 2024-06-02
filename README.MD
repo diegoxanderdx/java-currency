@@ -30,4 +30,5 @@ Inside this folder, we have:
 
 ## Screenshots
 
-![Screenshoot 1](https://postimg.cc/ykyjTpyY)
+![cc1.png](https://i.postimg.cc/NfWnBWyT/cc1.png)
+![cc1.png](https://i.postimg.cc/hPPCgKPf/cc3.png)
