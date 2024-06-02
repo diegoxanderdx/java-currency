@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff1fb56f-9ecf-4341-abca-a492aa4378fc" name="Changes" comment="add README.MD">
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+    <list default="true" id="ff1fb56f-9ecf-4341-abca-a492aa4378fc" name="Changes" comment="edit README.MD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
@@ -120,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717356937507</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="edit README.MD">
+      <option name="closed" value="true" />
+      <created>1717359471883</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717359471883</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +147,7 @@
     <MESSAGE value="currency conversor" />
     <MESSAGE value="improve some views" />
     <MESSAGE value="add README.MD" />
-    <option name="LAST_COMMIT_MESSAGE" value="add README.MD" />
+    <MESSAGE value="edit README.MD" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit README.MD" />
   </component>
 </project>
